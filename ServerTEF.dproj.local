@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/30 13:24:40.000.034,=C:\Users\Francisco informatic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/30 13:25:44.000.500,D:\Note_Rosa\documents\SimulaServidorTEF\uServerTEF.dfm=C:\Users\Francisco informatic\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/11/30 13:25:44.000.500,D:\Note_Rosa\documents\SimulaServidorTEF\uServerTEF.pas=C:\Users\Francisco informatic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/30 13:34:48.000.826,D:\Note_Rosa\documents\SimulaServidorTEF\ServerTEF.dproj=C:\Users\Francisco informatic\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/12/02 23:20:06.000.237,=D:\Note_Rosa\documents\SimulaServidorTEF\Unit3.pas</Transaction>
+    <Transaction>2019/12/02 23:22:24.000.794,D:\Note_Rosa\documents\SimulaServidorTEF\Unit3.pas=D:\Note_Rosa\documents\CadastroVenda\units\uFornecedorGrupo.pas</Transaction>
+    <Transaction>2019/12/02 23:22:24.000.794,D:\Note_Rosa\documents\SimulaServidorTEF\Unit3.dfm=D:\Note_Rosa\documents\CadastroVenda\units\uFornecedorGrupo.dfm</Transaction>
+    <Transaction>2019/12/02 23:29:24.000.837,D:\Note_Rosa\documents\CadastroVenda\units\uFornecedorGrupo.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
